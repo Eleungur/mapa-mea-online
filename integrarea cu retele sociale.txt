@@ -1,0 +1,50 @@
+     Descriere: integrarea cu retele sociale
+
+Prioritatea: 8/10
+
+Tipul Test Case-ului:UI,Usability, Black box
+
+Satut de Automatizare: Nu
+
+Mediul de Testare: www.utest.com resources
+
+Preconditii:
+
+.Dispozitiv calculator,conectat la reteaua alimentara sau pe baterie
+
+.Internet acces
+
+.Sistem de operare
+
+ Pasii de testare:
+
+.Porneste dizpozitivul
+
+.Conectarea la reteaua de internet
+
+.Deschiderea browser
+
+.Tapeaza textul www.utest.com in bara de cautare
+
+.Apasa tasta ENTER
+
+.Localizeaza sectiunea retele de socializare
+.Da clic pe likk Instagram
+.Da clic pe link youtube
+.Da clic pe Facebook
+.Da clik pe LinkedIn
+.Da clic pe redid
+
+Atasament: exemplu.jpg
+
+Test data:
+
+ www.utest.com in calitate de adresa de productie
+
+.Rezultatul asteptat:integrarea cu retele sociale
+.Rezultatul actual: integrarea cu retele sociale 
+Statutul de executare : a trecut
+
+Nume QA: Elena Ungureanu
+
+Data/ ora: 21/02/2026  ora 22:13
